@@ -7,8 +7,8 @@ importFrom(nnet, which.is.max)
 importFrom(ncdf.tools, checkNcdfFile, convertDateNcdf2R, indexDatacube, infoNcdfAtts,
            infoNcdfDims, infoNcdfVars, modifyNcdfCopyAtts, modifyNcdfCopyMetadata, 
            readNcdfVarName, transNcdfRotate)
-importFrom(RNetCDF, att.get.nc, att.put.nc, create.nc, dim.def.nc, dim.inq.nc, sync.nc,
-           var.def.nc, var.inq.nc, var.put.nc)
+#importFrom(RNetCDF, att.get.nc, att.put.nc, create.nc, dim.def.nc, dim.inq.nc, sync.nc,
+#           var.def.nc, var.inq.nc, var.put.nc)
 importFrom(JBTools, convertArgs2String, getSysinfo, getVecInfo,
            indexVec2Matrix, isSeriesConstant, isSeriesContinuous, labelMargins, MEF, 
            plotImageRotated, plotBG, printStatus, rangeZeroEqui, registerParallel,
