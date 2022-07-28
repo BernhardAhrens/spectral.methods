@@ -11,7 +11,7 @@ Version: \tab 0.7.2.133\cr
 Date: \tab 2015-05-20\cr
 Author: \tab Jannis v. Buttlar\cr
 Maintainer: \tab Jannis v. Buttlar <jbuttlar@bgc-jena.mpg.de>\cr
-Imports: \tab Rssa (>= 0.11), raster, nnet, abind, RNetCDF, ncdf.tools, foreach, JBTools, DistributionUtils, RColorBrewer\cr
+Imports: \tab Rssa (>= 0.11), raster, nnet, abind, ncdf.tools, foreach, JBTools, DistributionUtils, RColorBrewer\cr
 License: \tab GPL-2\cr
 LazyLoad: \tab yes\cr
 Depends: \tab R (>= 3.0.0)\cr}
